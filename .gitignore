@@ -3,7 +3,7 @@
 node_modules
 
 # Ignore build files
-#dist
+dist
 
 # Ignore package lock
-#package-lock.json
+package-lock.json
