@@ -4,6 +4,8 @@ package-lock.json
 package.json
 README.md
 .vscode
+.husky
 .babelrc
 .eslintrc.js
 .prettierrc.js
+.stylelintrc.json
