@@ -1,0 +1,9 @@
+node_modules
+dist
+package-lock.json
+package.json
+README.md
+.vscode
+.babelrc
+.eslintrc.js
+.prettierrc.js
